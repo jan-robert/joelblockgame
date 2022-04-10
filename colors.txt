@@ -1,0 +1,11 @@
+Hey I think I can implement colors on the shapes. Does not seem too difficult actually
+Just wanted this text file so we can have it as reference to know which color is which.
+
+Cyan- (0,255,255)
+Magenta- (255,60,245)
+Red- (255,45,45)
+Lime Green- (55,255,65)
+Yellow- (245,255,50)
+Light Pink- (255,180,195)
+
+It has been done
